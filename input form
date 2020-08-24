@@ -1,0 +1,31 @@
+
+<html>
+
+<head>
+
+<title> Advanced Shortest Paths </title>
+
+</head>
+
+<body>
+
+<h1> Advanced Shortest Paths </h1>
+
+<form action=Getresult.jsp>
+
+Source Node : <input type="text" name="src"/>
+
+<br></br>
+
+Destination Node : <input type="text" name="dest"/>
+
+<br></br>
+
+<input type="submit" name="Submit"/>
+
+</form>
+
+
+</body>
+
+</html>
